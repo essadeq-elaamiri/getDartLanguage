@@ -1,3 +1,4 @@
+import 'dart:ffi';
 import 'dart:io';
 
 class Person {
@@ -147,4 +148,11 @@ void main(List<String> args) {
 
   // the same as
   number3 = number3 == null ? 233 : number3;
+
+  /**** ***** is operator */
+  print(1 is int); // true
+  print("hello" is dynamic);
+  print("hellos" is Null); // false
+  print("null" is Null); // false
+  print("EE" is String); // true
 }
