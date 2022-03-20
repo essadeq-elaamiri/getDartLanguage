@@ -12,6 +12,10 @@ class Answer {
     isCorrect = json['isCorrect'];
   }
 
+  String displayAnswer() {
+    return this.title;
+  }
+
   Map<String, dynamic> toJson() => {
         'title': title,
         'isCorrect': isCorrect,

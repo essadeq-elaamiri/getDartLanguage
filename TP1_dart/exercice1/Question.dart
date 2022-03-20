@@ -21,6 +21,14 @@ class Question {
     return desc;
   }
 
+  String displayQuestion() {
+    String dis = this.title + " ($score)\n";
+    for (Answer an in this.answers) {
+      dis += an.displayAnswer() + "\n";
+    }
+    return dis;
+  }
+
   void fromJson(Map<String, dynamic> json) {
     title = json['q_title'];
     description = "desc";
