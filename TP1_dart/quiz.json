@@ -1,0 +1,100 @@
+{
+    "title": "Computer science Quiz",
+    "questions": [
+        {
+            "score": 100,
+            "q_title": "q1 What does CPU stand for?",
+            "correct_answer": "Central Processing Unit",
+            "answers": [
+                {
+                    "a_title": "Central Processing Unit",
+                    "isCorrect": true
+                },
+                {
+                    "a_title": "Computer Personal Unit",
+                    "isCorrect": false
+                },
+                {
+                    "a_title": "Central Processor Unit",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "score": 100,
+            "q_title": "Q2 What does CPU stand for?",
+            "correct_answer": "Central Processing Unit",
+            "answers": [
+                {
+                    "a_title": "Central Processing Unit",
+                    "isCorrect": true
+                },
+                {
+                    "a_title": "Computer Personal Unit",
+                    "isCorrect": false
+                },
+                {
+                    "a_title": "Central Processor Unit",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "score": 100,
+            "q_title": "Q3 What does CPU stand for?",
+            "correct_answer": "Central Processing Unit",
+            "answers": [
+                {
+                    "a_title": "Central Processing Unit",
+                    "isCorrect": true
+                },
+                {
+                    "a_title": "Computer Personal Unit",
+                    "isCorrect": false
+                },
+                {
+                    "a_title": "Central Processor Unit",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "score": 100,
+            "q_title": "Q4 What does CPU stand for?",
+            "correct_answer": "Central Processing Unit",
+            "answers": [
+                {
+                    "a_title": "Central Processing Unit",
+                    "isCorrect": true
+                },
+                {
+                    "a_title": "Computer Personal Unit",
+                    "isCorrect": false
+                },
+                {
+                    "a_title": "Central Processor Unit",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "score": 100,
+            "q_title": "Q5 What does CPU stand for?",
+            "correct_answer": "Central Processing Unit",
+            "answers": [
+                {
+                    "a_title": "Central Processing Unit",
+                    "isCorrect": true
+                },
+                {
+                    "a_title": "Computer Personal Unit",
+                    "isCorrect": false
+                },
+                {
+                    "a_title": "Central Processor Unit",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}

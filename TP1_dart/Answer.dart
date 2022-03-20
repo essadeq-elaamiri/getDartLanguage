@@ -4,6 +4,16 @@ class Answer {
   Answer(this.title, this.isCorrect);
 
   String toString() {
-    return '{"title": $this.title}';
+    return '{"title": "${this.title}", "isCorrect":$isCorrect}';
   }
+
+  void fromJson(Map<String, dynamic> json) {
+    title = json['a_title'];
+    isCorrect = json['isCorrect'];
+  }
+
+  Map<String, dynamic> toJson() => {
+        'title': title,
+        'isCorrect': isCorrect,
+      };
 }
